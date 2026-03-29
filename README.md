@@ -34,7 +34,6 @@ flowchart TD
     C --> F
     C --> G
     C --> H
-    C --> I
 
     D --> J[Upstream DNS]
     J --> K[Internet]
@@ -42,6 +41,5 @@ flowchart TD
     D --> H
     F --> G
     C --> F
-    I --> H
     E --> G
     E --> H
