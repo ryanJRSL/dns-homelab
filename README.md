@@ -18,7 +18,7 @@ A self-hosted home lab focused on DNS filtering, monitoring, centralized logging
 ## Architecture
 ```mermaid
 flowchart TD
-    A[Home Devices<br/>PC, Phone, Laptop, Tablet] --> B[Router / Gateway]
+    A[Home Devices<br/>PC, Laptop] --> B[Router / Gateway]
     B --> C[Homelab Host]
 
     subgraph C1 [Homelab Services]
