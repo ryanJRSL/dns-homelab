@@ -2,7 +2,7 @@
 
 ## Overview
 A self-hosted home lab focused on DNS filtering, monitoring, centralized logging, reverse proxy routing, and containerized services.
-Refer to [PROGRESS.md](PROGRESS.md) for updates
+Refer to [PROGRESS.md](PROGRESS.md) for updates.
 
 ## Goals
 - Improve practical networking and systems administration skills
