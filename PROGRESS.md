@@ -11,3 +11,4 @@
 ### (3/30/26; 11:00 am):
 - Configured custom DNS records via pi-hole
 - Verified resolution via browser & ping
+- Stopped here, will continue later.
